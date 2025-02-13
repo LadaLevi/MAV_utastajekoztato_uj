@@ -1,0 +1,17 @@
+table {
+    background-color: rgb(5, 78, 66);
+    border: 2px solid ;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+#késik {
+    background-color: red;
+}
+
+.elsoo {
+    background-color: lightblue;
+}
+
+tbody {
+    background-color: bisque;
+}
