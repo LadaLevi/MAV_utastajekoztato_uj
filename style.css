@@ -1,0 +1,21 @@
+table {
+    border: 1px solid;
+    background-color:lime;
+color: white;
+font-family: 'Courier New', Courier, monospace;  
+
+font-size: 30px;
+}
+
+td{
+    background-color: green;
+}
+ 
+#keses {
+    background-color: red;
+}
+
+.elso{
+    background-color: blueviolet;
+
+}
