@@ -6,13 +6,10 @@ table {
     font-size: 30px;
     
 }
-#késik {
+#keso_indulo_vonat {
     background-color: red;
 }
 
-.elsoo {
-    background-color: lightblue;
-}
 
 tbody {
     background-color: bisque;
@@ -34,3 +31,10 @@ tbody {
     background-color: #0056b3;
 }
 
+tbody tr:nth-child(even) {
+    background-color: chocolate;
+}
+
+th {
+    background-color: rgb(143, 69, 17)     ;
+}
