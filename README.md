@@ -16,6 +16,23 @@ Egyszerűen nyisd meg a `https://github.com/LadaLevi/MAV_utastajekoztato_uj.git`
 A projekt élőben megtekinthető az alábbi linken:  
 [🔗 MÁV Utastájékoztató](https://ladalevi.github.io/MAV_utastajekoztato_uj/)
 
+### CSS formázat
+.főoldal {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.főoldal:hover {
+    background-color: #0056b3;
+}
+
 
 ### ⚙️ Fejlesztési lehetőségek
 - [✖️] 🔄 Dinamikus adatbetöltés API-n keresztül
