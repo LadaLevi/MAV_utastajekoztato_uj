@@ -17,6 +17,7 @@ A projekt élőben megtekinthető az alábbi linken:
 [🔗 MÁV Utastájékoztató](https://ladalevi.github.io/MAV_utastajekoztato_uj/)
 
 ### CSS formázat
+``` CSS
 .főoldal {
     font-size: 20px;
     font-weight: bold;
@@ -32,7 +33,7 @@ A projekt élőben megtekinthető az alábbi linken:
 .főoldal:hover {
     background-color: #0056b3;
 }
-
+```
 
 ### ⚙️ Fejlesztési lehetőségek
 - [✖️] 🔄 Dinamikus adatbetöltés API-n keresztül
